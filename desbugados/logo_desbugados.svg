@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 894">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #30ffe1;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #aa610b;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #101b31;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-6, .cls-11, .cls-12, .cls-3, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7, .cls-18 {
+        fill: #020424;
+      }
+
+      .cls-8 {
+        fill: #00b4b3;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24 {
+        fill: none;
+      }
+
+      .cls-9, .cls-20, .cls-21, .cls-23 {
+        stroke-width: 15px;
+      }
+
+      .cls-9, .cls-21 {
+        stroke: #1d454e;
+      }
+
+      .cls-9, .cls-21, .cls-22, .cls-24 {
+        stroke-miterlimit: 100;
+      }
+
+      .cls-9, .cls-25 {
+        fill: #1d454e;
+      }
+
+      .cls-10, .cls-26 {
+        fill: #001519;
+      }
+
+      .cls-20 {
+        stroke: #8e241e;
+      }
+
+      .cls-20, .cls-23 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-11 {
+        fill: #e51831;
+      }
+
+      .cls-27 {
+        fill: #f2002b;
+      }
+
+      .cls-12 {
+        fill: #ffcc03;
+      }
+
+      .cls-28 {
+        fill: #06102b;
+      }
+
+      .cls-29 {
+        isolation: isolate;
+      }
+
+      .cls-30 {
+        fill: #c7ff3e;
+      }
+
+      .cls-13, .cls-31 {
+        fill: #8e241e;
+      }
+
+      .cls-22 {
+        stroke: #f2002b;
+      }
+
+      .cls-23 {
+        stroke: #001519;
+      }
+
+      .cls-14 {
+        fill: #e69112;
+      }
+
+      .cls-32 {
+        fill: #82fb00;
+      }
+
+      .cls-15 {
+        fill: #0a8e83;
+      }
+
+      .cls-24 {
+        stroke: #30ffe1;
+      }
+
+      .cls-16 {
+        fill: #f5fcff;
+      }
+
+      .cls-17 {
+        fill: #86691c;
+      }
+    </style>
+  </defs>
+  <g id="Linha_1" data-name="Linha 1" class="cls-29">
+    <g id="Linha_1-2" data-name="Linha 1">
+      <rect class="cls-30" x="292.5" y="56" width="5" height="67"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar" data-name="Linha 1 copiar" class="cls-29">
+    <g id="Linha_1_copiar-2" data-name="Linha 1 copiar">
+      <rect class="cls-30" x="325.5" y="74" width="5" height="67"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_11" data-name="Linha 1 copiar 11" class="cls-29">
+    <g id="Linha_1_copiar_11-2" data-name="Linha 1 copiar 11">
+      <rect class="cls-30" x="292.5" y="9" width="5" height="22"/>
+    </g>
+  </g>
+  <g id="Linha_5" data-name="Linha 5" class="cls-29">
+    <g id="Linha_5-2" data-name="Linha 5">
+      <rect class="cls-1" x="118.83" y="697" width="120.34" height="5" transform="translate(-458.81 361.06) rotate(-47.69)"/>
+      <rect class="cls-24" x="118.83" y="697" width="120.34" height="5" transform="translate(-458.81 361.06) rotate(-47.69)"/>
+    </g>
+  </g>
+  <g id="Linha_6" data-name="Linha 6" class="cls-29">
+    <g id="Linha_6-2" data-name="Linha 6">
+      <rect class="cls-1" x="119.05" y="776.5" width="84.9" height="5" transform="translate(-517.71 364.76) rotate(-46.91)"/>
+      <rect class="cls-24" x="119.05" y="776.5" width="84.9" height="5" transform="translate(-517.71 364.76) rotate(-46.91)"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_2" data-name="Linha 1 copiar 2" class="cls-29">
+    <g id="Linha_1_copiar_2-2" data-name="Linha 1 copiar 2">
+      <rect class="cls-30" x="366.5" y="57" width="5" height="67"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_3" data-name="Linha 1 copiar 3" class="cls-29">
+    <g id="Linha_1_copiar_3-2" data-name="Linha 1 copiar 3">
+      <rect class="cls-30" x="253.5" y="26.73" width="5" height="128"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_4" data-name="Linha 1 copiar 4" class="cls-29">
+    <g id="Linha_1_copiar_4-2" data-name="Linha 1 copiar 4">
+      <rect class="cls-30" x="224.5" y="44.98" width="5" height="142"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_5" data-name="Linha 1 copiar 5" class="cls-29">
+    <g id="Linha_1_copiar_5-2" data-name="Linha 1 copiar 5">
+      <rect class="cls-30" x="186.5" y="44.98" width="5" height="191"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_6" data-name="Linha 1 copiar 6" class="cls-29">
+    <g id="Linha_1_copiar_6-2" data-name="Linha 1 copiar 6">
+      <rect class="cls-1" x="186.5" y="616.01" width="5" height="237"/>
+      <rect class="cls-24" x="186.5" y="616.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_7" data-name="Linha 1 copiar 7" class="cls-29">
+    <g id="Linha_1_copiar_7-2" data-name="Linha 1 copiar 7">
+      <rect class="cls-1" x="224.5" y="597.01" width="5" height="237"/>
+      <rect class="cls-24" x="224.5" y="597.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_8" data-name="Linha 1 copiar 8" class="cls-29">
+    <g id="Linha_1_copiar_8-2" data-name="Linha 1 copiar 8">
+      <rect class="cls-1" x="250.5" y="626.01" width="5" height="237"/>
+      <rect class="cls-24" x="250.5" y="626.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_9" data-name="Linha 1 copiar 9" class="cls-29">
+    <g id="Linha_1_copiar_9-2" data-name="Linha 1 copiar 9">
+      <rect class="cls-1" x="297.5" y="593.01" width="5" height="237"/>
+      <rect class="cls-24" x="297.5" y="593.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_10" data-name="Linha 1 copiar 10" class="cls-29">
+    <g id="Linha_1_copiar_10-2" data-name="Linha 1 copiar 10">
+      <rect class="cls-1" x="362.5" y="593.01" width="5" height="237"/>
+      <rect class="cls-24" x="362.5" y="593.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_2" data-name="Linha 2" class="cls-29">
+    <g id="Linha_2-2" data-name="Linha 2">
+      <rect class="cls-30" x="160.5" y="98.4" width="5" height="84.2" transform="translate(-51.8 127.43) rotate(-37.28)"/>
+    </g>
+  </g>
+  <g id="Linha_2_copiar" data-name="Linha 2 copiar" class="cls-29">
+    <g id="Linha_2_copiar-2" data-name="Linha 2 copiar">
+      <rect class="cls-30" x="161.5" y="177.4" width="5" height="84.2" transform="translate(-99.44 144.18) rotate(-37.28)"/>
+    </g>
+  </g>
+  <g id="Linha_4" data-name="Linha 4" class="cls-29">
+    <g id="Linha_4-2" data-name="Linha 4">
+      <rect class="cls-1" x="126.24" y="635" width="74.52" height="5" transform="translate(-429.45 351.93) rotate(-49.9)"/>
+      <rect class="cls-24" x="126.24" y="635" width="74.52" height="5" transform="translate(-429.45 351.93) rotate(-49.9)"/>
+    </g>
+  </g>
+  <g id="Linha_2_copiar_2" data-name="Linha 2 copiar 2" class="cls-29">
+    <g id="Linha_2_copiar_2-2" data-name="Linha 2 copiar 2">
+      <rect class="cls-30" x="164.08" y="217.21" width="5" height="84.2" transform="translate(-138.29 214.15) rotate(-48.86)"/>
+    </g>
+  </g>
+  <g id="Linha_2_copiar_3" data-name="Linha 2 copiar 3" class="cls-29">
+    <g id="Linha_2_copiar_3-2" data-name="Linha 2 copiar 3">
+      <rect class="cls-30" x="167.08" y="265.21" width="5" height="84.2" transform="translate(-173.42 232.82) rotate(-48.86)"/>
+    </g>
+  </g>
+  <g id="Linha_3" data-name="Linha 3" class="cls-29">
+    <g id="Linha_3-2" data-name="Linha 3">
+      <rect class="cls-30" x="106.5" y="106" width="32" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_21" data-name="Linha 3 copiar 21" class="cls-29">
+    <g id="Linha_3_copiar_21-2" data-name="Linha 3 copiar 21">
+      <rect class="cls-30" x="30.5" y="104" width="32" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar" data-name="Linha 3 copiar" class="cls-29">
+    <g id="Linha_3_copiar-2" data-name="Linha 3 copiar">
+      <rect class="cls-30" x="104.5" y="185" width="36" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_20" data-name="Linha 3 copiar 20" class="cls-29">
+    <g id="Linha_3_copiar_20-2" data-name="Linha 3 copiar 20">
+      <rect class="cls-30" x="23.5" y="186" width="36" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_2" data-name="Linha 3 copiar 2" class="cls-29">
+    <g id="Linha_3_copiar_2-2" data-name="Linha 3 copiar 2">
+      <rect class="cls-30" x="58.5" y="230" width="78" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_3" data-name="Linha 3 copiar 3" class="cls-29">
+    <g id="Linha_3_copiar_3-2" data-name="Linha 3 copiar 3">
+      <rect class="cls-30" x="106.5" y="279" width="35" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_19" data-name="Linha 3 copiar 19" class="cls-29">
+    <g id="Linha_3_copiar_19-2" data-name="Linha 3 copiar 19">
+      <rect class="cls-30" x="24.5" y="279" width="35" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_22" data-name="Linha 3 copiar 22" class="cls-29">
+    <g id="Linha_3_copiar_22-2" data-name="Linha 3 copiar 22">
+      <rect class="cls-30" x="24.5" y="348" width="35" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_4" data-name="Linha 3 copiar 4" class="cls-29">
+    <g id="Linha_3_copiar_4-2" data-name="Linha 3 copiar 4">
+      <rect class="cls-30" x="91.5" y="337" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_7" data-name="Linha 3 copiar 7" class="cls-29">
+    <g id="Linha_3_copiar_7-2" data-name="Linha 3 copiar 7">
+      <rect class="cls-1" x="97.5" y="462" width="138" height="5"/>
+      <rect class="cls-24" x="97.5" y="462" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_8" data-name="Linha 3 copiar 8" class="cls-29">
+    <g id="Linha_3_copiar_8-2" data-name="Linha 3 copiar 8">
+      <rect class="cls-30" x="68.5" y="422" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_9" data-name="Linha 3 copiar 9" class="cls-29">
+    <g id="Linha_3_copiar_9-2" data-name="Linha 3 copiar 9">
+      <rect class="cls-1" x="104.5" y="499" width="138" height="5"/>
+      <rect class="cls-24" x="104.5" y="499" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_12" data-name="Linha 3 copiar 12" class="cls-29">
+    <g id="Linha_3_copiar_12-2" data-name="Linha 3 copiar 12">
+      <rect class="cls-1" x="109.5" y="582" width="138" height="5"/>
+      <rect class="cls-24" x="109.5" y="582" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_11" data-name="Linha 3 copiar 11" class="cls-29">
+    <g id="Linha_3_copiar_11-2" data-name="Linha 3 copiar 11">
+      <rect class="cls-1" x="5.5" y="502" width="53" height="5"/>
+      <rect class="cls-24" x="5.5" y="502" width="53" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_13" data-name="Linha 3 copiar 13" class="cls-29">
+    <g id="Linha_3_copiar_13-2" data-name="Linha 3 copiar 13">
+      <rect class="cls-1" x="3.5" y="581" width="53" height="5"/>
+      <rect class="cls-24" x="3.5" y="581" width="53" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_14" data-name="Linha 3 copiar 14" class="cls-29">
+    <g id="Linha_3_copiar_14-2" data-name="Linha 3 copiar 14">
+      <rect class="cls-1" x=".5" y="663" width="53" height="5"/>
+      <rect class="cls-24" x=".5" y="663" width="53" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_15" data-name="Linha 3 copiar 15" class="cls-29">
+    <g id="Linha_3_copiar_15-2" data-name="Linha 3 copiar 15">
+      <rect class="cls-1" x="104.5" y="663" width="37" height="5"/>
+      <rect class="cls-24" x="104.5" y="663" width="37" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_16" data-name="Linha 3 copiar 16" class="cls-29">
+    <g id="Linha_3_copiar_16-2" data-name="Linha 3 copiar 16">
+      <rect class="cls-1" x="3.5" y="742" width="53" height="5"/>
+      <rect class="cls-24" x="3.5" y="742" width="53" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_17" data-name="Linha 3 copiar 17" class="cls-29">
+    <g id="Linha_3_copiar_17-2" data-name="Linha 3 copiar 17">
+      <rect class="cls-1" x="104.5" y="740" width="37" height="5"/>
+      <rect class="cls-24" x="104.5" y="740" width="37" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_18" data-name="Linha 3 copiar 18" class="cls-29">
+    <g id="Linha_3_copiar_18-2" data-name="Linha 3 copiar 18">
+      <rect class="cls-1" x="96.5" y="807" width="37" height="5"/>
+      <rect class="cls-24" x="96.5" y="807" width="37" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_5" data-name="Linha 3 copiar 5" class="cls-29">
+    <g id="Linha_3_copiar_5-2" data-name="Linha 3 copiar 5">
+      <rect class="cls-30" x="91.5" y="372" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_2" data-name="Elipse 1 copiar 2" class="cls-29">
+    <g id="Elipse_1_copiar_2-2" data-name="Elipse 1 copiar 2">
+      <path class="cls-1" d="M83,732c6.34,0,11.5,5.16,11.5,11.5s-5.16,11.5-11.5,11.5-11.5-5.16-11.5-11.5,5.16-11.5,11.5-11.5M83,717c-14.64,0-26.5,11.86-26.5,26.5s11.86,26.5,26.5,26.5,26.5-11.86,26.5-26.5-11.86-26.5-26.5-26.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_3" data-name="Elipse 1 copiar 3" class="cls-29">
+    <g id="Elipse_1_copiar_3-2" data-name="Elipse 1 copiar 3">
+      <path class="cls-1" d="M80,654c6.34,0,11.5,5.16,11.5,11.5s-5.16,11.5-11.5,11.5-11.5-5.16-11.5-11.5,5.16-11.5,11.5-11.5M80,639c-14.64,0-26.5,11.86-26.5,26.5s11.86,26.5,26.5,26.5,26.5-11.86,26.5-26.5-11.86-26.5-26.5-26.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_4" data-name="Elipse 1 copiar 4" class="cls-29">
+    <g id="Elipse_1_copiar_4-2" data-name="Elipse 1 copiar 4">
+      <path class="cls-1" d="M83,573c6.34,0,11.5,5.16,11.5,11.5s-5.16,11.5-11.5,11.5-11.5-5.16-11.5-11.5,5.16-11.5,11.5-11.5M83,558c-14.64,0-26.5,11.86-26.5,26.5s11.86,26.5,26.5,26.5,26.5-11.86,26.5-26.5-11.86-26.5-26.5-26.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_5" data-name="Elipse 1 copiar 5" class="cls-29">
+    <g id="Elipse_1_copiar_5-2" data-name="Elipse 1 copiar 5">
+      <path class="cls-1" d="M81.5,493.5c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M81.5,478.5c-13.26,0-24,10.74-24,24s10.74,24,24,24,24-10.74,24-24-10.74-24-24-24h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_6" data-name="Elipse 1 copiar 6" class="cls-29">
+    <g id="Elipse_1_copiar_6-2" data-name="Elipse 1 copiar 6">
+      <path class="cls-30" d="M80.5,347.5c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M80.5,332.5c-13.26,0-24,10.74-24,24s10.74,24,24,24,24-10.74,24-24-10.74-24-24-24h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_7" data-name="Elipse 1 copiar 7" class="cls-29">
+    <g id="Elipse_1_copiar_7-2" data-name="Elipse 1 copiar 7">
+      <path class="cls-30" d="M83.5,270.5c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M83.5,255.5c-13.26,0-24,10.74-24,24s10.74,24,24,24,24-10.74,24-24-10.74-24-24-24h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_8" data-name="Elipse 1 copiar 8" class="cls-29">
+    <g id="Elipse_1_copiar_8-2" data-name="Elipse 1 copiar 8">
+      <path class="cls-30" d="M80.5,179.5c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M80.5,164.5c-13.26,0-24,10.74-24,24s10.74,24,24,24,24-10.74,24-24-10.74-24-24-24h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_12" data-name="Elipse 1 copiar 12" class="cls-29">
+    <g id="Elipse_1_copiar_12-2" data-name="Elipse 1 copiar 12">
+      <path class="cls-30" d="M82.5,98.5c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M82.5,83.5c-13.26,0-24,10.74-24,24s10.74,24,24,24,24-10.74,24-24-10.74-24-24-24h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar" data-name="Elipse 1 copiar" class="cls-29">
+    <g id="Elipse_1_copiar-2" data-name="Elipse 1 copiar">
+      <path class="cls-1" d="M366,842.12c2.41,0,4.38,1.96,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.96-4.38-4.38,1.97-4.38,4.38-4.38M366,830c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_9" data-name="Elipse 1 copiar 9" class="cls-29">
+    <g id="Elipse_1_copiar_9-2" data-name="Elipse 1 copiar 9">
+      <path class="cls-1" d="M253,873.12c2.41,0,4.38,1.96,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.96-4.38-4.38,1.97-4.38,4.38-4.38M253,861c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_13" data-name="Elipse 1 copiar 13" class="cls-29">
+    <g id="Elipse_1_copiar_13-2" data-name="Elipse 1 copiar 13">
+      <path class="cls-30" d="M188,28.12c2.41,0,4.38,1.97,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.97-4.38,4.38-4.38M188,16c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_14" data-name="Elipse 1 copiar 14" class="cls-29">
+    <g id="Elipse_1_copiar_14-2" data-name="Elipse 1 copiar 14">
+      <path class="cls-30" d="M256,12.12c2.41,0,4.38,1.97,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.97-4.38,4.38-4.38M256,0c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_15" data-name="Elipse 1 copiar 15" class="cls-29">
+    <g id="Elipse_1_copiar_15-2" data-name="Elipse 1 copiar 15">
+      <path class="cls-30" d="M368,39.12c2.41,0,4.38,1.97,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.97-4.38,4.38-4.38M368,27c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_16" data-name="Elipse 1 copiar 16" class="cls-29">
+    <g id="Elipse_1_copiar_16-2" data-name="Elipse 1 copiar 16">
+      <path class="cls-30" d="M295,37.12c2.41,0,4.38,1.97,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.97-4.38,4.38-4.38M295,25c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_10" data-name="Elipse 1 copiar 10" class="cls-29">
+    <g id="Elipse_1_copiar_10-2" data-name="Elipse 1 copiar 10">
+      <path class="cls-1" d="M187,858.12c2.41,0,4.38,1.96,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.96-4.38-4.38,1.97-4.38,4.38-4.38M187,846c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_11" data-name="Elipse 1 copiar 11" class="cls-29">
+    <g id="Elipse_1_copiar_11-2" data-name="Elipse 1 copiar 11">
+      <path class="cls-1" d="M85,803.12c2.41,0,4.38,1.97,4.38,4.38s-1.97,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.97-4.38,4.38-4.38M85,791c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1" data-name="Elipse 1" class="cls-29">
+    <g id="Elipse_1-2" data-name="Elipse 1">
+      <path class="cls-1" d="M300,845c4.69,0,8.5,3.81,8.5,8.5s-3.81,8.5-8.5,8.5-8.5-3.81-8.5-8.5,3.81-8.5,8.5-8.5M300,830c-12.98,0-23.5,10.52-23.5,23.5s10.52,23.5,23.5,23.5,23.5-10.52,23.5-23.5-10.52-23.5-23.5-23.5h0Z"/>
+    </g>
+  </g>
+  <g id="Linha_1-3" data-name="Linha 1" class="cls-29">
+    <g id="Linha_1-4" data-name="Linha 1">
+      <rect class="cls-27" x="690.5" y="56" width="5" height="67"/>
+      <rect class="cls-22" x="690.5" y="56" width="5" height="67"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar-3" data-name="Linha 1 copiar" class="cls-29">
+    <g id="Linha_1_copiar-4" data-name="Linha 1 copiar">
+      <rect class="cls-27" x="657.5" y="74" width="5" height="67"/>
+      <rect class="cls-22" x="657.5" y="74" width="5" height="67"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_11-3" data-name="Linha 1 copiar 11" class="cls-29">
+    <g id="Linha_1_copiar_11-4" data-name="Linha 1 copiar 11">
+      <rect class="cls-27" x="690.5" y="9" width="5" height="22"/>
+      <rect class="cls-22" x="690.5" y="9" width="5" height="22"/>
+    </g>
+  </g>
+  <g id="Linha_5-3" data-name="Linha 5" class="cls-29">
+    <g id="Linha_5-4" data-name="Linha 5">
+      <rect class="cls-27" x="806.5" y="639.33" width="5" height="120.34" transform="translate(-260.13 726.72) rotate(-42.31)"/>
+      <rect class="cls-22" x="806.5" y="639.33" width="5" height="120.34" transform="translate(-260.13 726.72) rotate(-42.31)"/>
+    </g>
+  </g>
+  <g id="Linha_6-3" data-name="Linha 6" class="cls-29">
+    <g id="Linha_6-4" data-name="Linha 6">
+      <rect class="cls-27" x="824" y="736.55" width="5" height="84.9" transform="translate(-309.25 774.74) rotate(-43.09)"/>
+      <rect class="cls-22" x="824" y="736.55" width="5" height="84.9" transform="translate(-309.25 774.74) rotate(-43.09)"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_2-3" data-name="Linha 1 copiar 2" class="cls-29">
+    <g id="Linha_1_copiar_2-4" data-name="Linha 1 copiar 2">
+      <rect class="cls-27" x="616.5" y="57" width="5" height="67"/>
+      <rect class="cls-22" x="616.5" y="57" width="5" height="67"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_3-3" data-name="Linha 1 copiar 3" class="cls-29">
+    <g id="Linha_1_copiar_3-4" data-name="Linha 1 copiar 3">
+      <rect class="cls-27" x="729.5" y="26.73" width="5" height="128"/>
+      <rect class="cls-22" x="729.5" y="26.73" width="5" height="128"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_4-3" data-name="Linha 1 copiar 4" class="cls-29">
+    <g id="Linha_1_copiar_4-4" data-name="Linha 1 copiar 4">
+      <rect class="cls-27" x="758.5" y="44.98" width="5" height="142"/>
+      <rect class="cls-22" x="758.5" y="44.98" width="5" height="142"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_5-3" data-name="Linha 1 copiar 5" class="cls-29">
+    <g id="Linha_1_copiar_5-4" data-name="Linha 1 copiar 5">
+      <rect class="cls-27" x="796.5" y="44.98" width="5" height="191"/>
+      <rect class="cls-22" x="796.5" y="44.98" width="5" height="191"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_6-3" data-name="Linha 1 copiar 6" class="cls-29">
+    <g id="Linha_1_copiar_6-4" data-name="Linha 1 copiar 6">
+      <rect class="cls-27" x="796.5" y="616.01" width="5" height="237"/>
+      <rect class="cls-22" x="796.5" y="616.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_7-3" data-name="Linha 1 copiar 7" class="cls-29">
+    <g id="Linha_1_copiar_7-4" data-name="Linha 1 copiar 7">
+      <rect class="cls-27" x="758.5" y="597.01" width="5" height="237"/>
+      <rect class="cls-22" x="758.5" y="597.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_8-3" data-name="Linha 1 copiar 8" class="cls-29">
+    <g id="Linha_1_copiar_8-4" data-name="Linha 1 copiar 8">
+      <rect class="cls-27" x="732.5" y="626.01" width="5" height="237"/>
+      <rect class="cls-22" x="732.5" y="626.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_1_copiar_9-3" data-name="Linha 1 copiar 9" class="cls-29">
+    <g id="Linha_1_copiar_9-4" data-name="Linha 1 copiar 9">
+      <rect class="cls-27" x="685.5" y="593.01" width="5" height="237"/>
+      <rect class="cls-22" x="685.5" y="593.01" width="5" height="237"/>
+    </g>
+  </g>
+  <g id="Linha_2-3" data-name="Linha 2" class="cls-29">
+    <g id="Linha_2-4" data-name="Linha 2">
+      <rect class="cls-27" x="782.9" y="138" width="84.2" height="5" transform="translate(213.51 711.86) rotate(-52.72)"/>
+      <rect class="cls-22" x="782.9" y="138" width="84.2" height="5" transform="translate(213.51 711.86) rotate(-52.72)"/>
+    </g>
+  </g>
+  <g id="Linha_2_copiar-3" data-name="Linha 2 copiar" class="cls-29">
+    <g id="Linha_2_copiar-4" data-name="Linha 2 copiar">
+      <rect class="cls-27" x="781.9" y="217" width="84.2" height="5" transform="translate(150.26 742.21) rotate(-52.72)"/>
+      <rect class="cls-22" x="781.9" y="217" width="84.2" height="5" transform="translate(150.26 742.21) rotate(-52.72)"/>
+    </g>
+  </g>
+  <g id="Linha_4-3" data-name="Linha 4" class="cls-29">
+    <g id="Linha_4-4" data-name="Linha 4">
+      <rect class="cls-27" x="822" y="600.24" width="5" height="74.52" transform="translate(-216.81 680.94) rotate(-40.1)"/>
+      <rect class="cls-22" x="822" y="600.24" width="5" height="74.52" transform="translate(-216.81 680.94) rotate(-40.1)"/>
+    </g>
+  </g>
+  <g id="Linha_2_copiar_2-3" data-name="Linha 2 copiar 2" class="cls-29">
+    <g id="Linha_2_copiar_2-4" data-name="Linha 2 copiar 2">
+      <rect class="cls-27" x="779.31" y="256.81" width="84.2" height="5" transform="translate(32.22 604.48) rotate(-41.14)"/>
+      <rect class="cls-22" x="779.31" y="256.81" width="84.2" height="5" transform="translate(32.22 604.48) rotate(-41.14)"/>
+    </g>
+  </g>
+  <g id="Linha_2_copiar_3-3" data-name="Linha 2 copiar 3" class="cls-29">
+    <g id="Linha_2_copiar_3-4" data-name="Linha 2 copiar 3">
+      <rect class="cls-27" x="776.31" y="304.81" width="84.2" height="5" transform="translate(-.1 614.35) rotate(-41.14)"/>
+      <rect class="cls-22" x="776.31" y="304.81" width="84.2" height="5" transform="translate(-.1 614.35) rotate(-41.14)"/>
+    </g>
+  </g>
+  <g id="Linha_3-3" data-name="Linha 3" class="cls-29">
+    <g id="Linha_3-4" data-name="Linha 3">
+      <rect class="cls-27" x="849.5" y="106" width="32" height="5"/>
+      <rect class="cls-22" x="849.5" y="106" width="32" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_21-3" data-name="Linha 3 copiar 21" class="cls-29">
+    <g id="Linha_3_copiar_21-4" data-name="Linha 3 copiar 21">
+      <rect class="cls-27" x="925.5" y="104" width="32" height="5"/>
+      <rect class="cls-22" x="925.5" y="104" width="32" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar-3" data-name="Linha 3 copiar" class="cls-29">
+    <g id="Linha_3_copiar-4" data-name="Linha 3 copiar">
+      <rect class="cls-27" x="847.5" y="185" width="36" height="5"/>
+      <rect class="cls-22" x="847.5" y="185" width="36" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_3-3" data-name="Linha 3 copiar 3" class="cls-29">
+    <g id="Linha_3_copiar_3-4" data-name="Linha 3 copiar 3">
+      <rect class="cls-27" x="846.5" y="278" width="35" height="5"/>
+      <rect class="cls-22" x="846.5" y="278" width="35" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_4-3" data-name="Linha 3 copiar 4" class="cls-29">
+    <g id="Linha_3_copiar_4-4" data-name="Linha 3 copiar 4">
+      <rect class="cls-27" x="758.5" y="337" width="138" height="5"/>
+      <rect class="cls-22" x="758.5" y="337" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_7-3" data-name="Linha 3 copiar 7" class="cls-29">
+    <g id="Linha_3_copiar_7-4" data-name="Linha 3 copiar 7">
+      <rect class="cls-27" x="752.5" y="469" width="138" height="5"/>
+      <rect class="cls-22" x="752.5" y="469" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_8-3" data-name="Linha 3 copiar 8" class="cls-29">
+    <g id="Linha_3_copiar_8-4" data-name="Linha 3 copiar 8">
+      <rect class="cls-27" x="781.5" y="422" width="138" height="5"/>
+      <rect class="cls-22" x="781.5" y="422" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_9-3" data-name="Linha 3 copiar 9" class="cls-29">
+    <g id="Linha_3_copiar_9-4" data-name="Linha 3 copiar 9">
+      <rect class="cls-27" x="745.5" y="499" width="201" height="5"/>
+      <rect class="cls-22" x="745.5" y="499" width="201" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_12-3" data-name="Linha 3 copiar 12" class="cls-29">
+    <g id="Linha_3_copiar_12-4" data-name="Linha 3 copiar 12">
+      <rect class="cls-27" x="740.5" y="582" width="138" height="5"/>
+      <rect class="cls-22" x="740.5" y="582" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_13-3" data-name="Linha 3 copiar 13" class="cls-29">
+    <g id="Linha_3_copiar_13-4" data-name="Linha 3 copiar 13">
+      <rect class="cls-27" x="931.5" y="581" width="53" height="5"/>
+      <rect class="cls-22" x="931.5" y="581" width="53" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_15-3" data-name="Linha 3 copiar 15" class="cls-29">
+    <g id="Linha_3_copiar_15-4" data-name="Linha 3 copiar 15">
+      <rect class="cls-27" x="846.5" y="663" width="37" height="5"/>
+      <rect class="cls-22" x="846.5" y="663" width="37" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_17-3" data-name="Linha 3 copiar 17" class="cls-29">
+    <g id="Linha_3_copiar_17-4" data-name="Linha 3 copiar 17">
+      <rect class="cls-27" x="846.5" y="740" width="37" height="5"/>
+      <rect class="cls-22" x="846.5" y="740" width="37" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_18-3" data-name="Linha 3 copiar 18" class="cls-29">
+    <g id="Linha_3_copiar_18-4" data-name="Linha 3 copiar 18">
+      <rect class="cls-27" x="854.5" y="807" width="37" height="5"/>
+      <rect class="cls-22" x="854.5" y="807" width="37" height="5"/>
+    </g>
+  </g>
+  <g id="Linha_3_copiar_5-3" data-name="Linha 3 copiar 5" class="cls-29">
+    <g id="Linha_3_copiar_5-4" data-name="Linha 3 copiar 5">
+      <rect class="cls-27" x="758.5" y="372" width="138" height="5"/>
+      <rect class="cls-22" x="758.5" y="372" width="138" height="5"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_2-3" data-name="Elipse 1 copiar 2" class="cls-29">
+    <g id="Elipse_1_copiar_2-4" data-name="Elipse 1 copiar 2">
+      <path class="cls-27" d="M905,732c6.34,0,11.5,5.16,11.5,11.5s-5.16,11.5-11.5,11.5-11.5-5.16-11.5-11.5,5.16-11.5,11.5-11.5M905,717c-14.64,0-26.5,11.86-26.5,26.5s11.86,26.5,26.5,26.5,26.5-11.86,26.5-26.5-11.86-26.5-26.5-26.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_3-3" data-name="Elipse 1 copiar 3" class="cls-29">
+    <g id="Elipse_1_copiar_3-4" data-name="Elipse 1 copiar 3">
+      <path class="cls-27" d="M908,654c6.34,0,11.5,5.16,11.5,11.5s-5.16,11.5-11.5,11.5-11.5-5.16-11.5-11.5,5.16-11.5,11.5-11.5M908,639c-14.64,0-26.5,11.86-26.5,26.5s11.86,26.5,26.5,26.5,26.5-11.86,26.5-26.5-11.86-26.5-26.5-26.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_4-3" data-name="Elipse 1 copiar 4" class="cls-29">
+    <g id="Elipse_1_copiar_4-4" data-name="Elipse 1 copiar 4">
+      <path class="cls-27" d="M905,573c6.34,0,11.5,5.16,11.5,11.5s-5.16,11.5-11.5,11.5-11.5-5.16-11.5-11.5,5.16-11.5,11.5-11.5M905,558c-14.64,0-26.5,11.86-26.5,26.5s11.86,26.5,26.5,26.5,26.5-11.86,26.5-26.5-11.86-26.5-26.5-26.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_7-3" data-name="Elipse 1 copiar 7" class="cls-29">
+    <g id="Elipse_1_copiar_7-4" data-name="Elipse 1 copiar 7">
+      <path class="cls-27" d="M904.5,270.5c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M904.5,255.5c-13.26,0-24,10.74-24,24s10.74,24,24,24,24-10.74,24-24-10.74-24-24-24h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_12-3" data-name="Elipse 1 copiar 12" class="cls-29">
+    <g id="Elipse_1_copiar_12-4" data-name="Elipse 1 copiar 12">
+      <path class="cls-27" d="M905.5,98.5c4.96,0,9,4.04,9,9s-4.04,9-9,9-9-4.04-9-9,4.04-9,9-9M905.5,83.5c-13.26,0-24,10.74-24,24s10.74,24,24,24,24-10.74,24-24-10.74-24-24-24h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_14-3" data-name="Elipse 1 copiar 14" class="cls-29">
+    <g id="Elipse_1_copiar_14-4" data-name="Elipse 1 copiar 14">
+      <path class="cls-27" d="M732,12.12c2.42,0,4.38,1.97,4.38,4.38s-1.96,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.96-4.38,4.38-4.38M732,0c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_15-3" data-name="Elipse 1 copiar 15" class="cls-29">
+    <g id="Elipse_1_copiar_15-4" data-name="Elipse 1 copiar 15">
+      <path class="cls-27" d="M620,39.12c2.42,0,4.38,1.97,4.38,4.38s-1.96,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.96-4.38,4.38-4.38M620,27c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_16-3" data-name="Elipse 1 copiar 16" class="cls-29">
+    <g id="Elipse_1_copiar_16-4" data-name="Elipse 1 copiar 16">
+      <path class="cls-27" d="M693,37.12c2.42,0,4.38,1.97,4.38,4.38s-1.96,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.96-4.38,4.38-4.38M693,25c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_10-3" data-name="Elipse 1 copiar 10" class="cls-29">
+    <g id="Elipse_1_copiar_10-4" data-name="Elipse 1 copiar 10">
+      <path class="cls-27" d="M801,858.12c2.42,0,4.38,1.96,4.38,4.38s-1.96,4.38-4.38,4.38-4.38-1.96-4.38-4.38,1.96-4.38,4.38-4.38M801,846c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1_copiar_11-3" data-name="Elipse 1 copiar 11" class="cls-29">
+    <g id="Elipse_1_copiar_11-4" data-name="Elipse 1 copiar 11">
+      <path class="cls-27" d="M903,803.12c2.42,0,4.38,1.97,4.38,4.38s-1.96,4.38-4.38,4.38-4.38-1.97-4.38-4.38,1.96-4.38,4.38-4.38M903,791c-9.11,0-16.5,7.39-16.5,16.5s7.39,16.5,16.5,16.5,16.5-7.39,16.5-16.5-7.39-16.5-16.5-16.5h0Z"/>
+    </g>
+  </g>
+  <g id="Elipse_1-3" data-name="Elipse 1" class="cls-29">
+    <g id="Elipse_1-4" data-name="Elipse 1">
+      <path class="cls-27" d="M688,845c4.69,0,8.5,3.81,8.5,8.5s-3.81,8.5-8.5,8.5-8.5-3.81-8.5-8.5,3.81-8.5,8.5-8.5M688,830c-12.98,0-23.5,10.52-23.5,23.5s10.52,23.5,23.5,23.5,23.5-10.52,23.5-23.5-10.52-23.5-23.5-23.5h0Z"/>
+    </g>
+  </g>
+  <g id="Vermelho" class="cls-29">
+    <g id="Vermelho-2" data-name="Vermelho">
+      <path class="cls-11" d="M826.16,308.89c-50.6-131.28-158.33-238.93-338.64-239.04v711.14c175.66,2.66,287.96-110.84,336.65-237.05,24.72-64.09,27.6-168.63,1.99-235.06Z"/>
+    </g>
+  </g>
+  <g id="Amarelo" class="cls-29">
+    <g id="Amarelo-2" data-name="Amarelo">
+      <path class="cls-12" d="M159.2,302.99c-25.28,66.69-22.44,171.65,1.97,235.99,48.07,126.71,158.93,240.66,332.34,237.99V63c-178,.11-284.35,108.19-334.3,239.99Z"/>
+    </g>
+  </g>
+  <g id="Azul" class="cls-29">
+    <g id="Azul-2" data-name="Azul">
+      <path class="cls-25" d="M235.18,334.21c-19.53,51.74-17.34,133.18,1.52,183.1,37.14,98.31,122.81,186.73,256.8,184.65V148.01c-137.54.08-219.72,83.94-258.32,186.21Z"/>
+      <path class="cls-21" d="M235.18,334.21c-19.53,51.74-17.34,133.18,1.52,183.1,37.14,98.31,122.81,186.73,256.8,184.65V148.01c-137.54.08-219.72,83.94-258.32,186.21Z"/>
+    </g>
+    <path class="cls-9" d="M497.35,146.3c0,184.64,0,369.33,0,553.96,133.99,2.07,219.66-86.34,256.8-184.65,18.86-49.92,21.05-131.36,1.52-183.1-38.6-102.26-120.77-186.12-258.32-186.21Z"/>
+  </g>
+  <g id="Camada_140" data-name="Camada 140">
+    <g id="Antena_E" data-name="Antena E">
+      <path class="cls-10" d="M688.56,225.24c-.12-.08-.24-.16-.34-.24-3.34-2.54-7.84-2.76-11.16-.2-19.15,14.82-46.69,61.87-59.32,84.56-3.19,5.73.76,12.82,7.32,13.11l6.09.28c3.15.14,6.15-1.41,7.84-4.07l51.98-81.44c2.55-4,1.58-9.44-2.41-12Z"/>
+      <path class="cls-23" d="M688.56,225.24c-.12-.08-.24-.16-.34-.24-3.34-2.54-7.84-2.76-11.16-.2-19.15,14.82-46.69,61.87-59.32,84.56-3.19,5.73.76,12.82,7.32,13.11l6.09.28c3.15.14,6.15-1.41,7.84-4.07l51.98-81.44c2.55-4,1.58-9.44-2.41-12Z"/>
+    </g>
+  </g>
+  <g id="Camada_141" data-name="Camada 141">
+    <g id="Forma_2" data-name="Forma 2">
+      <path class="cls-13" d="M701.68,173.29c-22.24-14.63-18.67,41.39-18.67,41.39l10.27,9.28c-6.79,7.98,32.28-34.96,8.4-50.66Z"/>
+      <path class="cls-20" d="M701.68,173.29c-22.24-14.63-18.67,41.39-18.67,41.39l10.27,9.28c-6.79,7.98,32.28-34.96,8.4-50.66Z"/>
+    </g>
+  </g>
+  <g id="Braco_D" data-name="Braco D" class="cls-29">
+    <g id="Braco_D-2" data-name="Braco D">
+      <path class="cls-10" d="M662.93,660.41c-7.26,0-12.94-4.48-15.21-11.98-.21-.7-.32-1.43-.32-2.17v-88.06l-4.15-3.28c-2.17-1.72-3.22-4.49-2.73-7.22l3-16.6c.46-2.52,2.17-4.64,4.54-5.61.92-.38,1.88-.56,2.84-.56,1.53,0,3.04.47,4.33,1.38l19,13.44c1.99,1.41,3.17,3.69,3.17,6.12v105.13c0,2.7-1.45,5.19-3.79,6.52-.85.48-5.34,2.88-10.68,2.88h0Z"/>
+      <path class="cls-26" d="M650.91,532.44l19,13.44v105.13s-3.35,1.9-6.98,1.9c-3.12,0-6.45-1.41-8.02-6.65v-91.69l-7-5.53,3-16.6M650.9,517.44c-1.92,0-3.85.37-5.68,1.12-4.75,1.94-8.17,6.17-9.08,11.22l-3,16.6c-.98,5.45,1.11,11,5.46,14.44l1.3,1.03v84.43c0,1.47.22,2.93.64,4.33,3.22,10.68,11.8,17.32,22.39,17.32,7.05,0,12.8-2.96,14.39-3.87,4.69-2.67,7.58-7.64,7.58-13.04v-105.13c0-4.87-2.36-9.43-6.34-12.25l-19-13.44c-2.57-1.82-5.61-2.75-8.66-2.75h0Z"/>
+    </g>
+  </g>
+  <g id="Antena_E-2" data-name="Antena E" class="cls-29">
+    <g id="Antena_E-3" data-name="Antena E">
+      <path class="cls-17" d="M397.96,74.51s-8.45-.39-7.62,8.7l57.8,90.56,24.44-1.11s-53.05-101.07-74.62-98.15Z"/>
+    </g>
+  </g>
+  <g id="Antena_E-4" data-name="Antena E" class="cls-29">
+    <g id="Antena_E-5" data-name="Antena E">
+      <path class="cls-10" d="M371.21,309.36c-12.62-22.69-40.17-69.74-59.32-84.56-3.31-2.57-7.82-2.34-11.16.2-.11.08-.22.16-.34.24-3.99,2.57-4.96,8.01-2.41,12l51.98,81.44c1.7,2.66,4.69,4.21,7.84,4.07l6.09-.28c6.55-.3,10.51-7.38,7.32-13.11Z"/>
+      <path class="cls-23" d="M371.21,309.36c-12.62-22.69-40.17-69.74-59.32-84.56-3.31-2.57-7.82-2.34-11.16.2-.11.08-.22.16-.34.24-3.99,2.57-4.96,8.01-2.41,12l51.98,81.44c1.7,2.66,4.69,4.21,7.84,4.07l6.09-.28c6.55-.3,10.51-7.38,7.32-13.11Z"/>
+    </g>
+  </g>
+  <g id="Braco_E" data-name="Braco E" class="cls-29">
+    <g id="Braco_E-2" data-name="Braco E">
+      <path class="cls-10" d="M332.4,673.3c-8.35,0-16.23-10.15-20.18-16.2-.8-1.22-1.22-2.64-1.22-4.1v-113c0-2.63,1.38-5.08,3.64-6.43l15-9c1.19-.71,2.52-1.07,3.86-1.07,1.25,0,2.49.31,3.62.93,2.34,1.29,3.82,3.72,3.88,6.4l3,130c.01.64-.05,1.29-.2,1.91-2.34,9.8-9.31,10.56-11.39,10.56h0Z"/>
+      <path class="cls-26" d="M333.5,531l3,130c-.83,3.48-2.32,4.8-4.1,4.8-5.54,0-13.9-12.8-13.9-12.8v-113l15-9M333.5,516c-2.67,0-5.35.71-7.72,2.14l-15,9c-4.52,2.71-7.28,7.59-7.28,12.86v113c0,2.91.85,5.76,2.44,8.2.27.42,2.75,4.18,6.11,8.04,4.31,4.96,11.12,11.56,20.35,11.56,7.15,0,15.82-4.29,18.69-16.32.3-1.25.43-2.54.4-3.82l-3-130c-.12-5.34-3.08-10.21-7.76-12.79-2.26-1.24-4.75-1.86-7.24-1.86h0Z"/>
+    </g>
+  </g>
+  <g id="Braco_E-3" data-name="Braco E" class="cls-29">
+    <g id="Braco_E-4" data-name="Braco E">
+      <path class="cls-3" d="M327.47,692.44c-6.19,0-11.28-3.44-12.24-4.13-1.88-1.35-3.03-3.49-3.12-5.8l-1.13-29.31c-.12-3.04,1.61-5.84,4.37-7.11,1-.46,2.06-.68,3.12-.68,1.86,0,3.7.69,5.12,2.02l16.91,15.78c1.21,1.13,2.01,2.62,2.28,4.25l1.13,6.76c.16.99.13,2-.1,2.97-3.28,13.75-12.52,15.24-16.34,15.24h0Z"/>
+      <path class="cls-2" d="M318.48,652.91l16.91,15.78,1.13,6.76c-1.78,7.47-5.53,9.48-9.05,9.48-4.09,0-7.86-2.72-7.86-2.72l-1.13-29.31M318.48,637.91c-2.11,0-4.24.45-6.24,1.36-5.53,2.53-8.98,8.14-8.75,14.22l1.13,29.31c.18,4.62,2.48,8.9,6.23,11.6,1.81,1.3,8.34,5.54,16.62,5.54,4.37,0,18.99-1.51,23.64-21,.46-1.95.53-3.97.2-5.94l-1.13-6.76c-.54-3.26-2.15-6.25-4.56-8.5l-16.91-15.78c-2.84-2.65-6.51-4.03-10.24-4.03h0Z"/>
+    </g>
+    <g id="Braco_E-5" data-name="Braco E">
+      <path class="cls-13" d="M663.44,689.43c-3.82,0-13.06-1.49-16.34-15.24-.23-.97-.27-1.98-.1-2.97l1.13-6.76c.27-1.63,1.07-3.12,2.28-4.25l16.91-15.78c1.42-1.32,3.26-2.02,5.12-2.02,1.06,0,2.12.22,3.12.68,2.76,1.26,4.49,4.07,4.37,7.11l-1.13,29.31c-.09,2.31-1.24,4.45-3.11,5.8-.96.69-6.05,4.13-12.24,4.13h0Z"/>
+      <path class="cls-31" d="M672.43,649.9h0M672.43,649.9l-1.13,29.31s-3.77,2.72-7.86,2.72c-3.52,0-7.27-2.01-9.05-9.48l1.13-6.76,16.91-15.78M672.44,634.9c-.18,0-.35,0-.53,0-3.77.13-7.19,1.65-9.76,4.07l-16.86,15.74c-2.42,2.25-4.02,5.24-4.56,8.5l-1.13,6.76c-.33,1.98-.26,4,.2,5.94,4.65,19.49,19.27,21,23.64,21,8.28,0,14.82-4.24,16.62-5.54,3.75-2.7,6.05-6.98,6.23-11.6l1.12-29c.02-.29.03-.59.03-.89,0-8.08-6.39-14.67-14.39-14.99-.2,0-.4-.01-.61-.01h0ZM672.43,664.9h0,0Z"/>
+    </g>
+  </g>
+  <g id="Antena_E-6" data-name="Antena E" class="cls-29">
+    <g id="Antena_E-7" data-name="Antena E">
+      <path class="cls-13" d="M589.86,74.49c-19.48-2.64-67.38,88.62-67.38,88.62l22.07,1,52.19-81.76c.75-8.21-6.88-7.86-6.88-7.86Z"/>
+    </g>
+  </g>
+  <g id="Braco_2_E" data-name="Braco 2 E" class="cls-29">
+    <g id="Braco_2_E-2" data-name="Braco 2 E">
+      <path class="cls-10" d="M288.59,518.89c-3.14,0-5.4-.5-5.82-.6-3.38-.8-5.77-3.82-5.77-7.3v-139.75c-1.42-5.6,2.27-11.96,10.26-17.44,1.25-.85,2.73-1.31,4.24-1.31h56c3.48,0,6.5,2.39,7.3,5.78.58,2.45-.12,4.95-1.72,6.74-.95,2.13-2.85,8.64-4.28,14.7-.8,3.39-3.82,5.78-7.3,5.78h-34.5v122.5c0,2.34-1.1,4.55-2.96,5.97-4.24,3.22-9.58,4.92-15.45,4.92Z"/>
+      <path class="cls-26" d="M347.5,360h0M347.5,360c-2,1-6,18-6,18h-42v130c-3.66,2.78-7.88,3.4-10.91,3.4-2.42,0-4.09-.4-4.09-.4v-141c-2-3.83,7-10,7-10h56M347.51,345h-56.01c-3.03,0-5.98.92-8.48,2.63-11.77,8.07-14.79,17.14-13.52,24.31v139.06c0,6.95,4.77,12.99,11.53,14.59.79.19,3.67.8,7.55.8,7.52,0,14.43-2.23,19.98-6.45,3.73-2.84,5.93-7.26,5.93-11.95v-115h27c6.96,0,13.01-4.79,14.6-11.56,1.14-4.82,2.66-10.22,3.54-12.62,1.8-2.47,2.86-5.52,2.86-8.82,0-8.27-6.69-14.98-14.96-15h0s-.02,0-.03,0h0ZM347.5,375h0,0Z"/>
+    </g>
+  </g>
+  <g id="Braco_2_E-3" data-name="Braco 2 E" class="cls-29">
+    <g id="Braco_2_E-4" data-name="Braco 2 E">
+      <path class="cls-10" d="M699.41,509.63c-5.87,0-11.21-1.7-15.45-4.92-1.87-1.42-2.96-3.63-2.96-5.97v-122.5h-34.5c-3.48,0-6.5-2.39-7.3-5.78-1.43-6.06-3.33-12.58-4.28-14.7-1.61-1.79-2.3-4.29-1.72-6.74.8-3.39,3.82-5.78,7.3-5.78h56c1.51,0,2.99.46,4.24,1.31,8,5.48,11.68,11.84,10.26,17.44v139.75c0,3.47-2.39,6.49-5.77,7.3-.42.1-2.68.6-5.82.6Z"/>
+      <path class="cls-26" d="M696.5,350.73s9,6.17,7,10v141s-1.66.4-4.09.4c-3.03,0-7.25-.62-10.91-3.4v-130h-42s-4-17-6-18h56M696.5,335.73h-56c-6.96,0-13,4.78-14.6,11.55-1.03,4.36-.04,8.81,2.46,12.26.88,2.39,2.4,7.8,3.54,12.63,1.6,6.77,7.64,11.56,14.6,11.56h27v115c0,4.69,2.19,9.11,5.93,11.95,5.56,4.22,12.47,6.45,19.98,6.45,3.88,0,6.76-.61,7.56-.8,6.76-1.61,11.53-7.65,11.53-14.59v-139.06c1.27-7.17-1.75-16.25-13.52-24.31-2.5-1.71-5.45-2.63-8.48-2.63h0Z"/>
+    </g>
+  </g>
+  <g id="Forma_2-2" data-name="Forma 2" class="cls-29">
+    <g id="Forma_2-3" data-name="Forma 2">
+      <path class="cls-14" d="M285.69,171.89c-23.03,19.81,8.7,68.61,8.7,68.61l10.63-12.56s3.7-75.86-19.33-56.05Z"/>
+    </g>
+  </g>
+  <g id="Forma_9" data-name="Forma 9" class="cls-29">
+    <g id="Forma_9-2" data-name="Forma 9">
+      <path class="cls-5" d="M492.55,714.48c-61.21,0-120.28-20.98-170.83-60.66-45.02-35.35-79.7-82.7-97.64-133.31-10.34-29.18-16.1-66.99-15.78-103.72.34-39.76,7.73-75.48,20.81-100.57l.64-1.22,13.98,5.82-.4,1.3c-54.95,178.77,34.14,295.71,135.83,345.54,34.8,17.05,80.36,27.23,121.89,27.23,19.19,0,37.39-2.13,54.09-6.34,43.53-10.96,80.95-30.28,121.33-62.64l49.98-56.08,11.95,8.55-.67,1.18c-16.15,28.22-38.58,53.26-66.68,74.4-27.62,20.78-59.28,36.76-94.1,47.48-28.11,8.66-56.5,13.04-84.39,13.04ZM755.17,500.82l.43-1.38c14.42-46.46,12.91-116.51-3.51-162.94-32.51-91.92-129.25-184.98-251.25-184.98-16.2,0-32.7,1.67-49.04,4.95-51.79,10.41-92.84,30.04-137.26,65.62l-37.69,42.4-14.44-10.76.73-1.17c28.66-46.26,85.09-85.88,150.93-105.99,19.36-5.91,40.33-9.51,64.09-11,.12-.03.29-.07.49-.07,2.18-.03,4.34-.05,6.5-.05,73.73,0,136.21,19.24,185.71,57.19,44.39,34.03,77.73,82.44,99.07,143.87,7.56,21.74,12.91,52.72,14.33,82.86,1.63,34.78-2.12,65.48-10.55,86.44l-.54,1.33-17.98-6.32Z"/>
+      <path class="cls-5" d="M485.14,136.95c154.95,0,243.38,84.99,283.36,200.05,14.41,41.47,22.31,122.27,3.8,168.25-9.74-3.42-5.53-1.94-15.27-5.36,14.96-48.21,12.4-118.84-3.53-163.89-30.83-87.18-126.49-185.98-252.67-185.98-15.97,0-32.45,1.59-49.33,4.98-58.43,11.74-99.43,35.09-137.95,65.96-.03.03-.06.05-.09.09-12.27,13.8-24.54,27.61-36.82,41.42-7.51-5.59-4.73-3.52-12.24-9.12,30.63-49.43,90.07-87.02,150.09-105.35,19.05-5.82,39.85-9.45,63.85-10.94.11,0,.2-.06.31-.06,2.17-.03,4.33-.05,6.48-.05M230.44,316.91c7,2.91,4.45,1.85,11.45,4.77-51.91,168.9,23.76,292.03,136.6,347.33,30.91,15.14,76.4,27.38,122.55,27.38,18.34,0,36.78-1.93,54.45-6.38,50.06-12.61,87.45-35.3,122-63,16.39-18.39,32.79-36.78,49.17-55.17,5.87,4.2,3.88,2.78,9.75,6.97-32.53,56.85-90.92,99.95-159.93,121.19-29,8.93-57.08,12.98-83.95,12.98-131.16,0-232.89-96.59-267.05-192.98-20.54-57.95-22.96-149.56,4.94-203.09M485.14,133.95c-2.15,0-4.35.02-6.52.05-.27,0-.5.04-.69.08-23.82,1.5-44.86,5.11-64.3,11.05-31.02,9.47-61.06,23.79-86.88,41.4-27.72,18.91-50.16,41.47-64.88,65.23l-1.45,2.34,2.21,1.65,6.26,4.66,5.98,4.45,2.21,1.64,1.83-2.06,33.75-37.97,2.94-3.31c44.18-35.38,85.02-54.89,136.52-65.24,16.24-3.26,32.64-4.92,48.74-4.92,121.31,0,217.51,92.55,249.84,183.98,16.32,46.16,17.83,115.8,3.49,162l-.86,2.76,2.73.96,3.89,1.37,6.99,2.46,4.39,1.54,2.71.95,1.07-2.66c10.92-27.12,11.82-62.32,10.66-87.07-1.42-30.27-6.81-61.41-14.41-83.28-21.44-61.71-54.95-110.35-99.58-144.57-49.76-38.15-112.55-57.5-186.62-57.5h0ZM229.06,313.08l-1.27,2.44c-13.19,25.29-20.64,61.25-20.98,101.25-.32,36.9,5.47,74.89,15.87,104.23,8.76,24.7,21.57,48.79,38.1,71.58,17.06,23.53,37.26,44.53,60.03,62.42,50.81,39.9,110.2,60.98,171.75,60.98,28.03,0,56.57-4.41,84.83-13.11,34.99-10.77,66.81-26.83,94.56-47.72,28.26-21.27,50.83-46.45,67.08-74.86l1.35-2.35-2.21-1.58-6.01-4.29-3.75-2.68-2.19-1.57-1.79,2.01-4.85,5.44-44.15,49.54c-40.17,32.16-77.39,51.37-120.66,62.27-16.58,4.18-34.65,6.29-53.72,6.29-41.31,0-86.62-10.12-121.23-27.08-101.14-49.56-189.73-165.88-135.06-343.75l.8-2.6-2.52-1.05-4.92-2.05-6.53-2.72-2.54-1.06h0Z"/>
+    </g>
+  </g>
+  <g id="Braco_D-3" data-name="Braco D" class="cls-29">
+    <g id="Braco_D-4" data-name="Braco D">
+      <path class="cls-8" d="M677.93,687.35c-3.59,0-12.27-1.38-15.32-14.17l-.2-.86v-113.78l-6.38-6.38-11.74-55.78,48.12,44.78v140.11l-3.12,2.25c-.89.64-5.6,3.82-11.36,3.82h0Z"/>
+      <path class="cls-18" d="M656.5,518l28.41,26.44v133s-3.35,2.41-6.98,2.41c-3.12,0-6.45-1.78-8.02-8.41v-116l-7-7-6.41-30.44M632.07,474.78l9.75,46.31,6.41,30.44.92,4.36,3.15,3.15,2.61,2.61v111.55l.41,1.71c3.5,14.7,13.98,19.93,22.62,19.93,7.85,0,14.03-4.01,15.74-5.23l6.24-4.49v-147.22l-4.78-4.45-28.41-26.44-34.65-32.24h0Z"/>
+    </g>
+  </g>
+  <g id="Braco_2_E-5" data-name="Braco 2 E" class="cls-29">
+    <g id="Braco_2_E-6" data-name="Braco 2 E">
+      <path class="cls-8" d="M277.59,499.89c-3.14,0-5.4-.5-5.82-.6l-5.77-1.37v-145.68c-1.42-5.6,2.27-11.96,10.26-17.44l1.92-1.31h90.09l-26.49,13.25c-1.01,2.64-2.69,8.5-3.98,13.97l-1.36,5.78h-40.44v126.22l-2.96,2.25c-4.24,3.22-9.58,4.92-15.45,4.92Z"/>
+      <path class="cls-18" d="M336.5,341c-2,1-6,18-6,18h-42v130c-3.66,2.78-7.88,3.4-10.91,3.4-2.42,0-4.09-.4-4.09-.4v-141c-2-3.83,7-10,7-10h56M400.04,326h-124.19l-3.83,2.63c-11.77,8.07-14.79,17.14-13.52,24.31v150.91l11.53,2.74c.79.19,3.67.8,7.55.8,7.52,0,14.43-2.23,19.98-6.45l5.93-4.5v-122.44h38.88l2.72-11.56c.86-3.63,1.93-7.6,2.79-10.36l52.15-26.08h0Z"/>
+    </g>
+  </g>
+  <g id="Braco_2_D" data-name="Braco 2 D" class="cls-29">
+    <g id="Braco_2_D-2" data-name="Braco 2 D">
+      <path class="cls-8" d="M712.04,499.11c-5.87,0-11.21-1.7-15.45-4.92l-2.96-2.25v-126.22h-40.44l-1.36-5.78c-1.29-5.48-2.97-11.33-3.98-13.97l-26.49-13.25h90.09l1.92,1.31c8,5.48,11.68,11.84,10.26,17.44v145.68l-5.77,1.37c-.42.1-2.68.6-5.82.6Z"/>
+      <path class="cls-18" d="M709.12,340.22s9,6.17,7,10v141s-1.66.4-4.09.4c-3.03,0-7.25-.62-10.91-3.4v-130h-42s-4-17-6-18h56M713.77,325.22h-124.19l52.15,26.08c.85,2.76,1.93,6.73,2.79,10.36l2.72,11.56h11.88s27,0,27,0v122.44l5.93,4.5c5.56,4.22,12.47,6.45,19.98,6.45,3.88,0,6.76-.61,7.56-.8l11.53-2.74v-150.91c1.27-7.17-1.75-16.25-13.52-24.31l-3.83-2.63h0Z"/>
+    </g>
+  </g>
+  <g id="Contorno_E" data-name="Contorno E" class="cls-29">
+    <g id="Contorno_E-2" data-name="Contorno E">
+      <path class="cls-5" d="M494.88,77.83c46.75,0,92.1,9.15,134.78,27.2,41.23,17.44,78.26,42.41,110.07,74.22,31.81,31.81,56.78,68.84,74.22,110.07,18.05,42.68,27.2,88.02,27.2,134.78s-9.15,92.1-27.2,134.78c-17.44,41.23-42.41,78.26-74.22,110.07-31.81,31.81-68.84,56.78-110.07,74.22-42.68,18.05-88.02,27.2-134.78,27.2s-92.1-9.15-134.78-27.2c-41.23-17.44-78.26-42.41-110.07-74.22-31.81-31.81-56.78-68.84-74.22-110.07-18.05-42.68-27.2-88.02-27.2-134.78s9.15-92.1,27.2-134.78c17.44-41.23,42.41-78.26,74.22-110.07s68.84-56.78,110.07-74.22c42.68-18.05,88.02-27.2,134.78-27.2M494.88,57.83c-202.28,0-366.27,163.98-366.27,366.27s163.98,366.27,366.27,366.27,366.27-163.98,366.27-366.27S697.17,57.83,494.88,57.83h0Z"/>
+    </g>
+  </g>
+  <g id="Braco_D-5" data-name="Braco D" class="cls-29">
+    <g id="Braco_D-6" data-name="Braco D">
+      <path class="cls-8" d="M609.42,285.52l57.56-118.32,2.57-1.1c.66-.28,6.6-2.75,12.69-2.75,9.51,0,15.7,6.12,15.76,15.6.02,3.41.06,10.52-31.42,66.83-15.14,27.07-30.48,52.8-30.64,53.06l-4.94,8.27-21.59-21.59Z"/>
+      <path class="cls-18" d="M682.24,170.86c4.22,0,8.22,1.7,8.26,8.14.08,13.67-61,116-61,116l-11-11,54-111s5.01-2.14,9.74-2.14M682.24,155.86c-7.43,0-14.34,2.79-15.64,3.35l-5.14,2.2-2.45,5.03-54,111-4.68,9.61,7.56,7.56,11,11,13.62,13.62,9.87-16.54c.15-.26,15.55-26.08,30.74-53.24,8.98-16.06,16.15-29.48,21.32-39.89,9.25-18.64,11.09-25.55,11.06-30.65-.08-13.57-9.65-23.05-23.26-23.05h0Z"/>
+    </g>
+  </g>
+  <g id="Braco_E-6" data-name="Braco E" class="cls-29">
+    <g id="Braco_E-7" data-name="Braco E">
+      <path class="cls-8" d="M352.9,298.84c-.15-.26-15.5-25.99-30.64-53.06-31.49-56.31-31.44-63.42-31.42-66.83.06-9.48,6.24-15.6,15.76-15.6,6.09,0,12.04,2.47,12.69,2.75l2.57,1.1,57.56,118.32-21.59,21.59-4.94-8.27Z"/>
+      <path class="cls-18" d="M306.6,170.86c4.73,0,9.74,2.14,9.74,2.14l54,111-11,11s-61.08-102.33-61-116c.04-6.44,4.04-8.14,8.26-8.14M306.6,155.86c-13.61,0-23.17,9.48-23.26,23.05-.03,5.1,1.81,12.01,11.06,30.65,5.17,10.41,12.34,23.83,21.32,39.89,15.19,27.16,30.59,52.98,30.74,53.24l9.87,16.54,13.62-13.62,11-11,7.56-7.56-4.68-9.61-54-111-2.45-5.03-5.14-2.2c-1.31-.56-8.21-3.35-15.64-3.35h0Z"/>
+    </g>
+  </g>
+  <g id="Braco_E-8" data-name="Braco E" class="cls-29">
+    <g id="Braco_E-9" data-name="Braco E">
+      <path class="cls-8" d="M311.47,688.91c-5.75,0-10.47-3.18-11.35-3.82l-3.12-2.25v-140.16l56.31-51.19-20.23,62.54-6.08,6.08v113.78l-.2.86c-3.05,12.79-11.73,14.17-15.32,14.17h0Z"/>
+      <path class="cls-18" d="M337.5,516l-11,34-7,7v116c-1.58,6.63-4.91,8.41-8.02,8.41-3.63,0-6.98-2.41-6.98-2.41v-133l33-30M369.13,466.98l-41.72,37.92-33,30-4.91,4.46v147.32l6.24,4.49c1.71,1.23,7.88,5.23,15.73,5.23,8.64,0,19.11-5.24,22.62-19.93l.41-1.72v-111.55l2.61-2.61,2.55-2.55,1.11-3.44,11-34,17.35-53.64h0Z"/>
+    </g>
+  </g>
+  <g id="Cabeca" class="cls-29">
+    <g id="Cabeca-2" data-name="Cabeca">
+      <path class="cls-8" d="M400.17,264.5l-1.06-6.24c-5.14-30.2.11-55.37,15.58-74.8,27.55-34.6,77.28-37.83,79.38-37.95h.24s.24-.01.24-.01c32.3.21,57.28,10.1,74.23,29.4,28.96,32.96,23.41,80.99,23.16,83.01l-.81,6.58h-190.96Z"/>
+      <path class="cls-18" d="M494.5,153c102.75.67,90,104,90,104h-178c-16.67-98,88-104,88-104M494.12,138l-.48.03c-2.24.13-55.2,3.57-84.82,40.76-16.86,21.17-22.62,48.33-17.11,80.73l2.12,12.48h203.93l1.62-13.16c.27-2.16,6.18-53.42-24.97-88.88-18.43-20.98-45.28-31.73-79.82-31.95h-.48Z"/>
+    </g>
+  </g>
+  <g id="Casco_D" data-name="Casco D" class="cls-29">
+    <g id="Casco_D-2" data-name="Casco D">
+      <path class="cls-8" d="M483.87,658.47c-72.48-6.1-109.89-38.65-128.52-64.88-20.33-28.63-23.2-55.71-23.32-56.85l-.02-.18c-.33-4.37-7.88-107.81.04-172.47,3.5-28.6,21.17-54.87,51.09-75.97,22.13-15.6,43.03-22.91,43.91-23.21l1.19-.41h63.76v394.66l-8.13-.68Z"/>
+      <path class="cls-18" d="M484.5,272v379c-134.75-11.33-145-115-145-115,0,0-7.92-106.33,0-171,7.92-64.67,90-93,90-93h55M499.5,257h-72.52l-2.38.82c-3.71,1.28-91.04,32.23-99.99,105.36-8,65.38-.4,169.53-.07,173.94v.18s.03.18.03.18c.12,1.22,3.2,30.23,24.66,60.46,12.55,17.67,28.81,32.26,48.35,43.36,23.92,13.59,52.74,21.89,85.66,24.66l16.26,1.37v-410.31h0Z"/>
+    </g>
+  </g>
+  <g id="Casco_E" data-name="Casco E" class="cls-29">
+    <g id="Casco_E-2" data-name="Casco E">
+      <path class="cls-8" d="M497,264.84h63.76l1.19.41c.88.3,21.78,7.61,43.91,23.21,29.92,21.1,47.59,47.37,51.09,75.97,7.92,64.66.36,168.1.04,172.47l-.02.18c-.11,1.14-2.99,28.23-23.32,56.85-18.63,26.23-56.04,58.79-128.52,64.88l-8.13.68v-394.66Z"/>
+      <path class="cls-18" d="M559.5,272.34s82.08,28.33,90,93c7.92,64.67,0,171,0,171,0,0-10.25,103.67-145,115v-379h55M562.02,257.34h-72.52v410.31l16.26-1.37c32.92-2.77,61.74-11.06,85.66-24.66,19.54-11.1,35.8-25.69,48.35-43.36,21.46-30.23,24.54-59.24,24.67-60.46l.02-.18v-.18c.34-4.4,7.95-108.56-.06-173.94-8.95-73.12-96.28-104.07-99.99-105.36l-2.38-.82h0Z"/>
+    </g>
+  </g>
+  <g id="Antena_E-9" data-name="Antena E" class="cls-29">
+    <g id="Antena_E-10" data-name="Antena E">
+      <path class="cls-6" d="M401.24,36.53s-6.62.84-5.05,11.35l54.24,97.12,18.92-5.05s-51.61-110.15-68.11-103.43Z"/>
+    </g>
+  </g>
+  <g id="Antena_E-11" data-name="Antena E" class="cls-29">
+    <g id="Antena_E-12" data-name="Antena E">
+      <path class="cls-6" d="M588.53,36.75c-16.47-6.71-67.97,103.21-67.97,103.21l18.88,5.03,54.12-96.92c1.57-10.49-5.03-11.33-5.03-11.33Z"/>
+    </g>
+  </g>
+  <g id="Brilho" class="cls-29">
+    <g id="Brilho-2" data-name="Brilho">
+      <path class="cls-16" d="M492.5,152.99c-50.5,3.51-67.99,30.01-67.99,30.01l11,12c9.13-15.14,57.99-28.01,57.99-28.01l-1-14Z"/>
+    </g>
+  </g>
+  <g id="Forma_5" data-name="Forma 5" class="cls-29">
+    <g id="Forma_5-2" data-name="Forma 5">
+      <path class="cls-15" d="M558.5,182s-23.33,63-152,75h178s2.83-64.33-26-75Z"/>
+    </g>
+  </g>
+  <g id="Olho_E" data-name="Olho E" class="cls-29">
+    <g id="Olho_E-2" data-name="Olho E">
+      <path class="cls-32" d="M441.5,222c-11.03,0-20-8.97-20-20s8.97-20,20-20,20,8.97,20,20-8.97,20-20,20Z"/>
+      <path class="cls-28" d="M441.5,188c7.72,0,14,6.28,14,14s-6.28,14-14,14-14-6.28-14-14,6.28-14,14-14M441.5,176c-14.36,0-26,11.64-26,26s11.64,26,26,26,26-11.64,26-26-11.64-26-26-26h0Z"/>
+    </g>
+  </g>
+  <g id="Olho_E-3" data-name="Olho E" class="cls-29">
+    <g id="Olho_E-4" data-name="Olho E">
+      <path class="cls-32" d="M548.5,222c-11.03,0-20-8.97-20-20s8.97-20,20-20,20,8.97,20,20-8.97,20-20,20Z"/>
+      <path class="cls-28" d="M548.5,188c7.72,0,14,6.28,14,14s-6.28,14-14,14-14-6.28-14-14,6.28-14,14-14M548.5,176c-14.36,0-26,11.64-26,26s11.64,26,26,26,26-11.64,26-26-11.64-26-26-26h0Z"/>
+    </g>
+  </g>
+  <g id="Forma_1" data-name="Forma 1" class="cls-29">
+    <g id="Forma_1-2" data-name="Forma 1">
+      <path class="cls-16" d="M448.5,189c-10.58-2.71-13,1-13,1-4.67-1.33-10.33,15.38-6,16s29.58-14.29,19-17Z"/>
+    </g>
+  </g>
+  <g id="Forma_1-3" data-name="Forma 1" class="cls-29">
+    <g id="Forma_1-4" data-name="Forma 1">
+      <path class="cls-16" d="M554.83,189.17c-10.5-3.01-12.33-.17-12.33-.17-4.67-1.33-10.33,15.34-6,16,4.31.66,28.76-12.84,18.33-15.83Z"/>
+    </g>
+  </g>
+  <g id="Forma_4" data-name="Forma 4" class="cls-29">
+    <g id="Forma_4-2" data-name="Forma 4">
+      <path class="cls-4" d="M383.5,335h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM377.5,378h-12v-31h12v31ZM427.5,335h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM421.5,378h-12v-31h12v31ZM471.5,335h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM465.5,378h-12v-31h12v31ZM517.5,390h24v-6h6v-43h-6v-6h-24v6h-6v43h6v6ZM523.5,347h12v31h-12v-31ZM586.5,378h-6v-43h-18v12h6v31h-6v12h24v-12ZM631.5,341v-6h-24v6h-6v43h6v6h24v-6h6v-43h-6ZM625.5,378h-12v-31h12v31ZM383.5,404h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM377.5,447h-12v-31h12v31ZM427.5,404h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM421.5,447h-12v-31h12v31ZM471.5,404h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM465.5,447h-12v-31h12v31ZM542.5,404h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM536.5,447h-12v-31h12v31ZM586.5,404h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM580.5,447h-12v-31h12v31ZM606.5,459h24v-6h6v-43h-6v-6h-24v6h-6v43h6v6ZM612.5,416h12v31h-12v-31ZM360.5,516v12h24v-12h-6v-43h-18v12h6v31h-6ZM404.5,516v12h24v-12h-6v-43h-18v12h6v31h-6ZM448.5,516v12h24v-12h-6v-43h-18v12h6v31h-6ZM515.5,516v12h24v-12h-6v-43h-18v12h6v31h-6ZM558.5,516v12h24v-12h-6v-43h-18v12h6v31h-6ZM631.5,473h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM625.5,516h-12v-31h12v31ZM383.5,542h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM377.5,585h-12v-31h12v31ZM427.5,542h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM421.5,585h-12v-31h12v31ZM471.5,542h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM465.5,585h-12v-31h12v31ZM542.5,542h-24v6h-6v43h6v6h24v-6h6v-43h-6v-6ZM536.5,585h-12v-31h12v31ZM585.5,542h-18v12h6v31h-6v12h24v-12h-6v-43ZM628.5,542h-18v12h6v31h-6v12h24v-12h-6v-43Z"/>
+    </g>
+  </g>
+  <g id="Forma_3" data-name="Forma 3" class="cls-29">
+    <g id="Forma_3-2" data-name="Forma 3">
+      <path class="cls-7" d="M339.55,542c-20.1,28.63,40.14,84,39.95,84l11-6c-35.75-19.46-50.95-78-50.95-78Z"/>
+    </g>
+  </g>
+  <g id="Forma_3-3" data-name="Forma 3" class="cls-29">
+    <g id="Forma_3-4" data-name="Forma 3">
+      <path class="cls-7" d="M652.39,542c-.13,0-9.22,25.89-23.89,48-8.22,12.39-19,22.2-29,29,.26.01,12.94,7,12.94,7-.19,0,74.86-86.28,39.95-84Z"/>
+    </g>
+  </g>
+  <g id="Forma_8" data-name="Forma 8" class="cls-29">
+    <g id="Forma_8-2" data-name="Forma 8">
+      <path class="cls-12" d="M256.58,254.56c-12.59,22.89-25.17,45.79-37.76,68.68,98.52,45.78,197.08,91.57,295.6,137.35.36-28.45.72-56.91,1.08-85.35-86.3-40.22-172.62-80.45-258.92-120.67Z"/>
+    </g>
+    <g id="Forma_8-3" data-name="Forma 8">
+      <path class="cls-11" d="M726.31,490.28c-33.63.76-37.45,34.1-2.66,65.62,10.67,9.67,24.98,19.16,43.17,27.49.35-27.5.71-55.01,1.06-82.51-16.77-7.7-30.72-10.85-41.58-10.61Z"/>
+    </g>
+    <polygon class="cls-11" points="515.12 374.45 740.5 495.54 726.67 571.83 497.35 453.64 497.35 362.5 515.12 374.45"/>
+    <polygon class="cls-11" points="720.14 566.98 736.43 575.15 745.5 555.74 720.14 545.53 720.14 566.98"/>
+  </g>
+  <g id="Linha_7-2" data-name="Linha 7" class="cls-29">
+    <polygon class="cls-5" points="733.42 578.84 744.24 561.34 742.99 560.71 235.51 307.7 232.72 306.31 224.76 326.84 733.42 578.84"/>
+    <polygon class="cls-5" points="264.41 253.35 261.81 257 265.18 258.69 267.05 259.63 760.28 506.86 766.68 510.06 769.34 511.4 775.91 493.94 776.78 491.61 272.5 241.44 264.41 253.35"/>
+    <line class="cls-5" x1="771.12" y1="511.4" x2="775.91" y2="493.94"/>
+    <polyline class="cls-19" points="228.83 318.47 225.33 316.91 223.16 325.25 225.73 326.45"/>
+    <polygon class="cls-5" points="225.74 316.88 234.37 321.36 224.49 340.94 218.51 337.95 225.74 316.88"/>
+    <polygon class="cls-5" points="258.83 255.61 264.41 258.3 266.78 254.13 261.81 251.57 258.83 255.61"/>
+    <polygon class="cls-5" points="764.64 509.04 772.82 513.11 776.78 501.5 765.33 498.81 764.64 509.04"/>
+    <polygon class="cls-5" points="731.44 569.44 742.8 574.06 737.12 583.52 726.84 576.48 731.44 569.44"/>
+    <polygon class="cls-5" points="224.39 320.6 230.55 305.06 236.71 308.3 228.31 324.51 224.39 320.6"/>
+    <polygon class="cls-5" points="747.84 563.02 742.8 574.06 732.82 570.68 740.5 559.47 747.84 563.02"/>
+  </g>
+</svg>

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Notícia - Gemini 2.5</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1e1e1e;
+      color: #e0e0e0;
+    }
+
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 80px;
+      height: 100%;
+      background-color: #2c2c2c;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px 0;
+    }
+
+    .sidebar img.logo {
+      width: 50px;
+      height: 50px;
+      margin-bottom: 30px;
+    }
+
+    .sidebar a.icon {
+      color: #fff;
+      font-size: 22px;
+      margin: 15px 0;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .sidebar a.icon:hover {
+      color: #ff4c4c;
+    }
+
+    .sidebar .spacer {
+      flex-grow: 1;
+    }
+
+    .sidebar .google-icon {
+      width: 40px;
+      height: 40px;
+      margin-bottom: 10px;
+    }
+
+    .main-content {
+  margin-left: 100px; /* espaço da sidebar */
+  padding: 40px 20px;
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: calc(100px + (50% - 450px)); 
+}
+
+    .category {
+      color: #ff4c4c;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .title {
+      font-size: 32px;
+      font-weight: bold;
+      color: #fff;
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .content {
+      font-size: 18px;
+      color: #c0c0c0;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .social-icons {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .social-icons a {
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      border-radius: 4px;
+      text-align: center;
+      line-height: 40px;
+      background-color: #333;
+      color: #fff;
+      text-decoration: none;
+      font-size: 20px;
+    }
+
+    .meta {
+      font-size: 14px;
+      color: #888;
+      margin-top: 10px;
+    }
+
+    .meta span.author {
+      color: #ff4c4c;
+      font-weight: bold;
+    }
+
+    img.article-img {
+      width: 100%;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+  </style>
+  <script src="https://kit.fontawesome.com/9e198f3518.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+  <div class="sidebar">
+    <img src="logo_desbugados.svg" alt="Logo" class="logo">
+
+    <a href="#" class="icon"><i class="fab fa-youtube"></i></a>
+    <a href="#" class="icon"><i class="fas fa-robot"></i></a>
+    <a href="#" class="icon"><i class="fas fa-laptop"></i></a>
+    <a href="#" class="icon"><i class="fas fa-graduation-cap"></i></a>
+    <a href="#" class="icon"><i class="fas fa-briefcase"></i></a>
+    <a href="#" class="icon"><i class="fas fa-gamepad"></i></a>
+    <a href="#" class="icon"><i class="fas fa-life-ring"></i></a>
+    <a href="#" class="icon"><i class="fas fa-user-astronaut"></i></a>
+    <a href="#" class="icon"><i class="fas fa-ellipsis-h"></i></a>
+
+    <div class="spacer"></div>
+
+    <img src="google-logo.png" alt="Google" class="google-icon">
+  </div>
+
+  <div class="main-content">
+    <div class="category">Inteligência Artificial & Dados</div>
+    <div class="title">
+      Google libera Modo IA com Gemini 2.5 para usuários na Índia em atualização de 24/06/2025
+    </div>
+    <div class="content">
+      O Google expande o uso do Modo IA para a Índia, marcando a primeira vez que o recurso, que utiliza o modelo Gemini 2.5, é liberado fora dos Estados Unidos. A novidade, anunciada nesta terça-feira (24/06/2025), traz melhorias significativas para as buscas, oferecendo respostas segmentadas em subtópicos, histórico de pesquisas customizado e muito mais, conforme destacado pelas fontes Canaltech e CNN Brasil.
+    </div>
+
+    <div class="social-icons">
+      <a href="#"><i class="fab fa-facebook-f"></i></a>
+      <a href="#"><i class="fab fa-whatsapp"></i></a>
+      <a href="#"><i class="fab fa-x-twitter"></i></a>
+      <a href="#"><i class="fab fa-linkedin-in"></i></a>
+      <a href="#"><i class="fas fa-share-alt"></i></a>
+    </div>
+
+    <div class="meta">
+      POR <span class="author">REDAÇÃO</span> • Publicado em 24/06/2025 10h33
+    </div>
+
+    <img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg" alt="Imagem da notícia" class="article-img">
+  </div>
+
+</body>
+</html>
